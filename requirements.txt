@@ -1,0 +1,8 @@
+SQLAlchemy
+numpy
+pandas
+pymysql
+openpyxl
+cryptography
+mysql-connector-python
+mysqlclient
