@@ -21,7 +21,7 @@ docker pull mysql
 ```
 
 ## create Database
-create the database **"salesdb-data-modelling"**, this is done with [docker-compose.yml](assets_scripts\docker-compose.yml) file:<br>
+create the database **"salesdb-data-modelling"**, this is done with [docker-compose.yml](assets_scripts/docker-compose.yml) file:<br>
 ```
 assets_scripts\docker-compose.yml>docker-compose up -d
 ```
@@ -60,7 +60,7 @@ The final ouput of the schema is
 *forward engineering the design of schema creates tables and attributes in db*
 
 ## Data source
-After the schema design, the raw is available in [US_Regional_Sales_Data.xlsx](assets_files\US_Regional_Sales_Data.xlsx)
+After the schema design, the raw is available in [US_Regional_Sales_Data.xlsx](assets_files/US_Regional_Sales_Data.xlsx)
 
 Sample view of all sheets in above .xlsx data:<br>
 Customers Sheet
