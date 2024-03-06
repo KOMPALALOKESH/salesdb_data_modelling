@@ -21,7 +21,7 @@ docker pull mysql
 ```
 
 ## create Database
-create the database **"salesdb-data-modelling"**, this is done with [docker-compose.yml]([assets_scripts/docker-compose.yml](https://github.com/KOMPALALOKESH/salesdb_data_modelling/blob/main/assets_scripts/docker-compose.yml)) file:<br>
+create the database **"salesdb-data-modelling"**, this is done with [docker-compose.yml]([assets_scripts/docker-compose.yml](assets_scripts/docker-compose.yml)) file:<br>
 ```
 assets_scripts\docker-compose.yml>docker-compose up -d
 ```
